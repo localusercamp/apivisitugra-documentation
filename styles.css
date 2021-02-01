@@ -1,0 +1,14 @@
+.paramtype {
+	color: #1e38a1 !important;
+	font-weight: bold !important;
+    	font-style: normal !important;
+}
+
+.section.return > dt {
+	color: #9c4b95 !important;
+}
+.section.return > dd {
+	color: #1e38a1 !important;
+	font-weight: bold !important;
+	font-style: normal !important;
+}
